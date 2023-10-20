@@ -56,7 +56,6 @@ fill(255);
 ellipse(250, 400, 20, 20);
 
 
-
 //wheel
   ellipse(200, 200, 80, 80);
   ellipse(350, 200, 80, 80);
@@ -216,8 +215,6 @@ fill(62, 107, 64);
    
    translate(width / 10, height / 10);
    rotate(PI / 9.0);
-
-   
   
 
    fill(20, 40, 100);//circle10
