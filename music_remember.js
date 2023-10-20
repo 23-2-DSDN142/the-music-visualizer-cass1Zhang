@@ -85,3 +85,15 @@ function draw_one_frame(words, vocal, drum, bass, other,counter) {
 }
 
 
+beginShape();
+   stroke(color(Aline));
+  strokeWeight(2);
+  vertex(103+x,125+y);
+  bezierVertex(93+x, 139+y, 158+x, 139+y, 147+x, 125+y);
+  endShape();
+
+stroke()
+noStroke()
+fill()
+noFill()
+bezier()
